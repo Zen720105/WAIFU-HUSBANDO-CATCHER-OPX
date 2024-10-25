@@ -100,3 +100,4 @@ If you appreciate this Code, make sure to star ✨ the repository.
 ## Developer Suggestions 
 - Don't Use heroku. Deploy on Heroku is just for testing. Otherwise Bot's Inline will Work Too Slow.
 - Use a reliable VPS provider
+ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ
